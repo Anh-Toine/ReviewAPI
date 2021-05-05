@@ -1,0 +1,12 @@
+Download the files from this git link : 
+or from the "files" folder of this zip
+
+Then put those files in a folder of your name's choice like : ReviewSniper folder
+
+Then put this newly created folder inside your htdocs of xampp
+
+Run Xampp Apache and MySql
+
+In your browser reach the page : reviewAlgo.php (home page)
+
+Here you go, the project is set up
